@@ -8,7 +8,7 @@
 
 ## Overview
 
-The GitHub Activity Calendar is a JavaScript library that generates a visual representation of a user's GitHub activity calendar. This library allows you to embed a calendar view of GitHub contributions directly into your website or application. It visualizes pull requests, issues opened, and commits made by a user, providing both graphical and statistical insights.
+The GitHub Activity Calendar is a JavaScript library that generates a visual representation of a user's GitHub activity calendar. This library allows you to embed a calendar view of GitHub contributions directly into your website or application. It visualizes pull requests, issues opened, and commits made by a user, providing both graphical and statistical insights. This project is a work in progress and im still trying to enhance the functionality.
 
 ## Features
 
