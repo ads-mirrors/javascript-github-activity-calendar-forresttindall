@@ -79,7 +79,7 @@ This project is licensed under the MIT License - see the [LICENSE](link) file fo
 
 ## Contact
 
-If you have any questions or need support, please open an issue in the repository or contact us at [your-email@example.com](mailto:Forrest@forresttindall.com).
+If you have any questions or need support, please open an issue in the repository or contact us at [Forrest@forresttindall.com](mailto:Forrest@forresttindall.com).
 
 
 
