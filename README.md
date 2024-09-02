@@ -42,16 +42,16 @@ Add the JavaScript file to your project.
 Add a container element in your HTML where the calendar will be rendered.
 
 ```html
-<div id="github-calendar"></div>
+    <div>
+<!-- Include the library. -->
+<script src="./Github-Activity/github-calendar.js"></script>
 
-<script src="path/to/github-activity-calendar.js"></script>
-<script>
-  GitHubCalendar("#github-calendar", "your-username", {
-    tooltips: true,
-    summary_text: 'Summary of contributions by @your-username',
-    cache: 86400
-  });
-</script>
+<link rel="stylesheet" href="./Github-Activity/github-calendar.css"/>
+<!-- Prepare a container for your calendar. -->
+<div class="calendar">Loading Stuff...</div>
+
+<script>GitHubCalendar(".calendar", "forresttindall");</script>
+</div>
 
 ```
 ## Usage
