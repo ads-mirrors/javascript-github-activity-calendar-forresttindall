@@ -86,7 +86,7 @@ If you have any questions or need support, please open an issue in the repositor
 
 
 
-### Buy me a coffee [Venmo](https://venmo.com/u/ForrestTindall)
+###  [Buy me a coffee](https://venmo.com/u/ForrestTindall)
 
 
 
