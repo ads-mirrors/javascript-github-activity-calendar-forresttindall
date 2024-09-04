@@ -84,7 +84,9 @@ This project is licensed under the MIT License - see the [LICENSE](link) file fo
 
 If you have any questions or need support, please open an issue in the repository or contact us at [Forrest@forresttindall.com](mailto:Forrest@forresttindall.com).
 
-#### Buy me a coffee [Venmo](https://venmo.com/u/ForrestTindall)
+
+
+### Buy me a coffee [Venmo](https://venmo.com/u/ForrestTindall)
 
 
 
