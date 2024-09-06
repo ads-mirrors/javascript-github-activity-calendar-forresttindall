@@ -76,8 +76,8 @@
 
   @media screen and (max-width: 800px) {
     .calendar {
-        width: 95%; /* Increase from 60% to 95% */
-        max-width: 400px; /* Add this to limit the width on smaller screens */
+        width: 85%; /* Increase from 60% to 95% */
+        max-width: 500px; /* Add this to limit the width on smaller screens */
         scrollbar-color: rgb(15, 15, 15); /* For Firefox */
     }
 }
