@@ -25,7 +25,7 @@ To use this library, you need to include the JavaScript file in your project. Yo
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/github-activity-calendar.git
+git clone https://github.com/forresttindall/github-activity-calendar.git
 ```
 
 
