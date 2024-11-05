@@ -1,6 +1,8 @@
 # GitHub Activity Calendar
 
-![IMG_4238](https://github.com/user-attachments/assets/b1f44e3d-16db-41dc-b6a8-d98d7cef462e)
+
+![New-github-calendar](https://github.com/user-attachments/assets/bfc5ef3d-8d86-4ba4-b3ad-ad16843b6ae9)
+
 
 
 
