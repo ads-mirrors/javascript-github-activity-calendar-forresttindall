@@ -27,6 +27,12 @@ main {
     padding: 0 10%;
 }
 
+@media screen and (max-width: 800px) {
+    main {
+        padding: 0 3%;
+    }
+}
+
 
 .primarybutton {
     text-align: center;
