@@ -1,6 +1,5 @@
 //  Forrest Tindall 2024
-// Buy me a Coffee Venmo https://venmo.com/u/ForrestTindall
-
+// Buy me a Coffee https://venmo.com/u/ForrestTindall
 
 
 
@@ -610,10 +609,11 @@ var _typeof2 =
           var u = e("github-calendar-legend");
           t.exports = function (e) {
             function n() {
-              a.longest_streak < a.current_streak &&
-                ((a.longest_streak = a.current_streak),
-                (a.longest_streak_range[0] = a.current_streak_range[0]),
-                (a.longest_streak_range[1] = a.current_streak_range[1]));
+              if (a.current_streak > a.longest_streak) {
+                a.longest_streak = a.current_streak;
+                a.longest_streak_range[0] = a.current_streak_range[0];
+                a.longest_streak_range[1] = a.current_streak_range[1];
+              }
             }
             var a = {
                 last_year: 0,
@@ -894,3 +894,6 @@ var _typeof2 =
     [1],
   )(1);
 });
+
+
+

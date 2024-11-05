@@ -15,31 +15,20 @@
 </head>
 <body>
     <section class="main">
-
-
-
-
-        <div>
-  
-            <!-- Include the library. -->
-            <script src="./github-calendar.js"></script>
-            
-            <link rel="stylesheet" href="./github-calendar.css"/>
-            <!-- Prepare a container for your calendar. -->
-            <div class="calendar">
-                <!-- Loading stuff -->
-                Loading Stuff...
-            </div>
-            
-            <script>
-                GitHubCalendar(".calendar", "forresttindall");
-               
-            </script>
-<!--
-<a href="https://venmo.com/u/ForrestTindall" target="_blank"><button class="primarybutton">Buy Me A Coffee</button></a>
-        -->
-</div>
+        <div class="calendar">
+            <!-- Loading stuff -->
+            Loading the calendar...
+        </div>
+        
+        
+        <script src="./github-calendar.js"></script>
+        <script>
+            GitHubCalendar(".calendar", "forresttindall", {
+                responsive: true,
+                tooltips: true,
+                global_stats: false // This disables the contribution stats
+            });
+        </script>
     </section>
-    
 </body>
 </html>
