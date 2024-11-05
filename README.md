@@ -1,7 +1,8 @@
 # GitHub Activity Calendar
 
 
-![New-github-calendar](https://github.com/user-attachments/assets/bfc5ef3d-8d86-4ba4-b3ad-ad16843b6ae9)
+<img width="1163" alt="Screenshot 2024-11-05 at 1 51 10 PM" src="https://github.com/user-attachments/assets/90e4a86b-004d-4bbd-88d6-f0aa7dd12e2b">
+
 
 
 
