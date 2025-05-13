@@ -1,7 +1,7 @@
 # GitHub Activity Calendar
 
 
-<img width="1163" alt="Screenshot 2024-11-05 at 1 51 10 PM" src="https://github.com/user-attachments/assets/90e4a86b-004d-4bbd-88d6-f0aa7dd12e2b">
+![github](https://github.com/user-attachments/assets/c2402d7a-8c05-487c-a22b-20684dc495c2)
 
 
 
@@ -12,7 +12,7 @@
 
 ## Overview
 
-The GitHub Activity Calendar is a JavaScript library that generates a visual representation of a user's GitHub activity calendar. This library allows you to embed a calendar view of GitHub contributions directly into your website or application. It visualizes pull requests, issues opened, and commits made by a user, providing both graphical and statistical insights. This project is a work in progress and im still trying to enhance the functionality.
+A customizable, responsive GitHub contribution activity graph that you can add to your README or personal website to showcase your coding activity over time.
 
 ## Features
 
@@ -85,7 +85,7 @@ This project is licensed under the MIT License - see the [LICENSE](link) file fo
 
 ## Contact
 
-If you have any questions or need support, please open an issue in the repository or contact us at [Forrest@forresttindall.com](mailto:Forrest@forresttindall.com).
+If you have any questions or need support, please open an issue in the repository or contact us at [Forrest.tindall@gmail.com](mailto:forrest.tindall@gmail.com).
 
 
 
